@@ -1,0 +1,20 @@
+# config.yml
+
+settings:
+  Time-Formats:
+    Day: " day"
+    Hour: " hour"
+    Minute: " minute"
+    Second: " second"
+  Append-Formats-With-An-S: true
+  Rewards-Cleared:
+    Tell-Target-All-Their-PlayTime-Rewards-Were-Cleared: true
+
+guis:
+  Top:
+    Title: '&fᴛᴏᴘ &bᴘʟᴀʏᴛɪᴍᴇꜱ'
+    How-Many-Players-To-Display-In-The-GUI: 10
+    Players-Name: '&b#%position% &7» &b%player%'
+    Players-Playtime: '&7%playtime%'
+  Rewards:
+    Title: '&bᴘʟᴀʏᴛɪᴍᴇ &fʀᴇᴡᴀʀᴅꜱ'

@@ -1,0 +1,37 @@
+# messages.yml
+prefix: "&bᴘʟᴀʏᴛɪᴍᴇ &e♦ &f"
+
+messages:
+  playtime:
+    self: "%prefix%You have played for &b%playtime%&f."
+    other: "%prefix%&b%player% &fhas played for &b%playtime%&f."
+    not-found: "%prefix%&cNo playtime found for %target%."
+  reloaded: "%prefix%&aConfiguration reloaded."
+  top-header: "%prefix%Opening top playtimes..."
+  no-permission: "%prefix%&cYou do not have permission to do that."
+  player-only: "%prefix%&cOnly players can run this command."
+  invalid-player: "%prefix%&cPlayer not found."
+  invalid-usage: "%prefix%&cInvalid usage."
+  rewards-were-cleared: "%prefix%Your playtime reward data has been &creset&f." # in the config.yml, the setting: "Tell-Target-All-Their-PlayTime-Rewards-Were-Cleared" must be set to "true" for the target to receive this message.
+  cleared-players-rewards: "%prefix%All reward data for &b%player% &fhas been &ccleared&f."
+  player-not-on-the-confirm-list: "%prefix%That players' PlayTime rewards aren't pending clear. &7(&e/pt clearrewards %player%&7)"
+  constant-rewards-cant-be-cleared: "%prefix%&bConstant &frewards can't be reset. The rewards are intended to always be able to be redone."
+  per-session-rewards-were-cleared: "%prefix%&6Per-session &frewards were &ccleared &ffor &b%player%&f."
+  unique-rewards-were-cleared: "%prefix%&aUnique &frewards were &ccleared &ffor &b%player%&f."
+  invalid-reward-type: "%prefix%&cInvalid &freward type. Use: &aunique &for &6per-session"
+  players-data-already-in-confirm-list: "%prefix%The reward data for &b%player% &fis already pending confirmation. &7(&e/pt clearrewards %player% confirm&7)"
+  hover-message:
+    message-in-chat: "%prefix%You need to confirm clearing &lALL &fof &b%player%s' &freward data. &7(&a&lClick to confirm&7)"
+    hover: "&fClick to confirm clearing of &b%player%s' &freward data."
+  clear-rewards-breakdown:
+  - "%prefix%Usage: &e/pt clearrewards (player) [reward-type]"
+  - "                     &7(required) [optional]"
+  - ""
+  - "&fValid reward types: &aunique &f& &6per-session"
+  help:
+  - "%prefix%&e/playtime &7- &fView your playtime."
+  - "%prefix%&e/playtime (player) &7- &fView another player's playtime."
+  - "%prefix%&e/playtime rewards &7- &fView rewards for playtime milestones."
+  - "%prefix%&e/playtime clearrewards (player) [reward-type] &7- &fClear all or a specified type of reward data for a player."
+  - "%prefix%&e/playtime top &7- &fView top playtimes."
+  - "%prefix%&e/playtime reload &7- &fReload plugin configuration."

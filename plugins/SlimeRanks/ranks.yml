@@ -1,0 +1,29 @@
+ConfigVersion: 1
+Ranks:
+  Admin:
+    Tab:
+      Active: true
+      Format: <red>Admin</red> <dark_gray>-</dark_gray> <red>{player}</red>
+      Priority: 2
+    Chat:
+      Active: true
+      Format: <red>Admin</red> <dark_gray>-</dark_gray> <red>{player}</red><dark_gray>:</dark_gray>
+        <gray>{message}</gray>
+    NameTag:
+      Active: true
+      Format: <red>Admin</red> <dark_gray>-</dark_gray> <red>{player}</red>
+      HideOnSneak: true
+    Permission: slimeranks.rank.admin
+  Player:
+    Tab:
+      Active: true
+      Format: <gray>Player</gray> <dark_gray>-</dark_gray> <gray>{player}</gray>
+      Priority: 1
+    Chat:
+      Active: true
+      Format: <gray>Player</gray> <dark_gray>-</dark_gray> <gray>{player}</gray><dark_gray>:</dark_gray>
+        <white>{message}</white>
+    NameTag:
+      Active: true
+      Format: <gray>Player</gray> <dark_gray>-</dark_gray> <gray>{player}</gray>
+      HideOnSneak: true

@@ -1,0 +1,256 @@
+[13:31:03] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.7+8-LTS-245; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[13:31:03] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-83-ver/1.21.3@d6c81da (2025-03-28T15:57:09Z) for Minecraft 1.21.3
+[13:31:06] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:31:09] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[13:31:09] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (2):
+ - EconomyShopGUI (6.13.3), SlimeRanks (1.0.0-BETA.6)
+[13:31:09] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - ClearLag (3.2.2), Essentials (2.21.1), GriefPrevention (16.18.4), GroupManager (3.2 (Phoenix)), PlaceholderAPI (2.11.6), PlayTime (2.2.5), TAB (5.2.3), Vault (1.7.3-b131)
+[13:31:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:31:28] [ServerMain/INFO]: Loaded 1337 recipes
+[13:31:28] [ServerMain/INFO]: Loaded 1448 advancements
+[13:31:28] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[13:31:28] [Server thread/INFO]: Loading properties
+[13:31:29] [Server thread/INFO]: This server is running Paper version 1.21.3-83-ver/1.21.3@d6c81da (2025-03-28T15:57:09Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[13:31:31] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:31:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:31:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:31:33] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[13:31:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[13:31:34] [Server thread/INFO]: Default game type: SURVIVAL
+[13:31:34] [Server thread/INFO]: Generating keypair
+[13:31:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:31:34] [Server thread/INFO]: Using default channel type
+[13:31:34] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[13:31:34] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loading 6 libraries... please wait
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library C:\Users\alzga\OneDrive\Desktop\Server-mc\1.21.3\paperMc\libraries\org\postgresql\postgresql\42.4.2\postgresql-42.4.2.jar
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library C:\Users\alzga\OneDrive\Desktop\Server-mc\1.21.3\paperMc\libraries\org\checkerframework\checker-qual\3.5.0\checker-qual-3.5.0.jar
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library C:\Users\alzga\OneDrive\Desktop\Server-mc\1.21.3\paperMc\libraries\com\h2database\h2\2.1.214\h2-2.1.214.jar
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library C:\Users\alzga\OneDrive\Desktop\Server-mc\1.21.3\paperMc\libraries\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library C:\Users\alzga\OneDrive\Desktop\Server-mc\1.21.3\paperMc\libraries\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library C:\Users\alzga\OneDrive\Desktop\Server-mc\1.21.3\paperMc\libraries\org\mariadb\jdbc\mariadb-java-client\3.0.7\mariadb-java-client-3.0.7.jar
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library C:\Users\alzga\OneDrive\Desktop\Server-mc\1.21.3\paperMc\libraries\com\zaxxer\HikariCP\5.0.1\HikariCP-5.0.1.jar
+[13:31:35] [Server thread/INFO]: [SpigotLibraryLoader] [GroupManager] Loaded library C:\Users\alzga\OneDrive\Desktop\Server-mc\1.21.3\paperMc\libraries\org\slf4j\slf4j-api\2.0.0\slf4j-api-2.0.0.jar
+[13:31:36] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[13:31:36] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[13:31:36] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.1
+[13:31:36] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.3
+[13:31:36] [Server thread/INFO]: [SlimeRanks] Loading server plugin SlimeRanks v1.0.0-BETA.6
+[13:31:36] [Server thread/INFO]: [PlayTime] Loading server plugin PlayTime v2.2.5
+[13:31:36] [Server thread/INFO]: [GroupManager] Loading server plugin GroupManager v3.2 (Phoenix)
+[13:31:36] [Server thread/INFO]: [GroupManager] Dependencies: OK
+[13:31:36] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.4
+[13:31:36] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.13.3
+[13:31:36] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[13:31:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:31:36] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[13:31:36] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:31:37] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[13:31:37] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:31:37] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[13:31:37] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[13:31:37] [Server thread/INFO]: [SlimeRanks] Enabling SlimeRanks v1.0.0-BETA.6
+[13:31:38] [Server thread/INFO]: [SlimeRanks] SlimeRanks 1.0.0-BETA.6 -> 1.0.0 released on Modrinth: https://modrinth.com/plugin/slimeranks
+[13:31:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:31:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:31:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:31:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:31:38] [Server thread/INFO]: Preparing level "world"
+[13:31:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:31:40] [Server thread/INFO]: Preparing spawn area: 0%
+[13:31:40] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[13:31:40] [Server thread/INFO]: Preparing spawn area: 0%
+[13:31:40] [Server thread/INFO]: Preparing spawn area: 0%
+[13:31:41] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 677.9ms
+[13:31:41] [Server thread/INFO]: Preparing spawn area: 18%
+[13:31:42] [Server thread/INFO]: Preparing spawn area: 38%
+[13:31:42] [Server thread/INFO]: Preparing spawn area: 38%
+[13:31:42] [Server thread/INFO]: Preparing spawn area: 38%
+[13:31:42] [Server thread/INFO]: Time elapsed: 3099 ms
+[13:31:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:31:42] [Server thread/INFO]: Preparing spawn area: 0%
+[13:31:43] [Server thread/INFO]: Preparing spawn area: 46%
+[13:31:43] [Server thread/INFO]: Time elapsed: 661 ms
+[13:31:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:31:43] [Server thread/INFO]: Preparing spawn area: 0%
+[13:31:43] [Server thread/INFO]: Time elapsed: 387 ms
+[13:31:43] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[13:31:45] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[13:31:45] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.1
+[13:31:49] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[13:31:50] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[13:31:50] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[13:31:51] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[13:31:52] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[13:31:52] [Server thread/INFO]: [Essentials] Using locale en_US
+[13:31:52] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:31:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:31:53] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[13:31:53] [Server thread/INFO]: [Essentials] Using Vault based permissions (GroupManager)
+[13:31:53] [Server thread/INFO]: [TAB] Enabling TAB v5.2.3
+[13:31:54] [Server thread/INFO]: [TAB] Enabled in 786ms
+[13:31:54] [Server thread/INFO]: [PlayTime] Enabling PlayTime v2.2.5
+[13:31:54] [Server thread/INFO]: [PlayTime] Messages loaded.
+[13:31:54] [Server thread/INFO]: [PlayTime] RewardManager data initialized.
+[13:31:54] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playtime [2.2.5]
+[13:31:54] [Server thread/INFO]: [PlayTime] PlaceholderAPI detected — placeholders registered.
+[13:31:54] [Server thread/INFO]: [PlayTime] Plugin enabled. (Took 87ms)
+[13:31:54] [Server thread/INFO]: [GroupManager] Enabling GroupManager v3.2 (Phoenix)
+[13:31:54] [Server thread/INFO]: [GroupManager] OfflinePlayers cached ( 1 ).
+[13:31:54] [Server thread/INFO]: [GroupManager] World Found: world
+[13:31:54] [Server thread/INFO]: [GroupManager] Superperms support enabled.
+[13:31:54] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: groupmanager [1.0.0]
+[13:31:54] [Server thread/INFO]: [GroupManager] Add-ons: PlaceholderAPI v2.11.6
+[13:31:54] [Server thread/INFO]: [GroupManager] Scheduled Data Saving is set for every 10 minutes!
+[13:31:54] [Server thread/INFO]: [GroupManager] Backups will be retained for 24 hours!
+[13:31:54] [Server thread/INFO]: [GroupManager] DataSource - YAML
+[13:31:54] [Server thread/INFO]: [GroupManager] version 3.2 (Phoenix) is enabled!
+[13:31:54] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[13:31:54] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager - Chat hooked.
+[13:31:54] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.4
+[13:31:54] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[13:31:54] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[13:31:55] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[13:31:55] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[13:31:55] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[13:31:55] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.13.3
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 14 shop sections.
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.21.3...
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[13:31:56] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.1.0]
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
+[13:31:56] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
+[13:31:58] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 2800ms to complete
+[13:31:58] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[13:31:58] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[13:31:58] [Server thread/INFO]: [ClearLag] Loading modules...
+[13:31:58] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[13:31:58] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[13:31:58] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[13:31:58] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[13:31:59] [Thread-6/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[13:31:59] [Thread-6/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[13:31:59] [Thread-6/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[13:31:59] [Thread-6/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[13:31:59] [Thread-6/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[13:31:59] [Thread-6/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[13:31:59] [Server thread/INFO]: [spark] Starting background profiler...
+[13:31:59] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[13:31:59] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[13:31:59] [Server thread/INFO]: Done preparing level "world" (20.886s)
+[13:31:59] [Server thread/INFO]: Running delayed init tasks
+[13:31:59] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[13:31:59] [Server thread/INFO]: [GroupManager] Bukkit Permissions Updated!
+[13:31:59] [Server thread/INFO]: Done (59.408s)! For help, type "help"
+[13:31:59] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
+[13:31:59] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[13:31:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: essentials [1.5.2]
+[13:31:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[13:31:59] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[13:32:00] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
+[13:32:00] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[13:32:00] [Craft Scheduler Thread - 6 - GroupManager/INFO]: [GroupManager] No new version available
+[13:36:13] [User Authenticator #0/INFO]: [GroupManager] Async Player Login event refresh data... 
+[13:36:13] [User Authenticator #0/INFO]: [GroupManager] Async Player Login event finshed. 
+[13:36:13] [User Authenticator #0/INFO]: UUID of player ALZ is ed139787-f254-3e60-b7d5-2ac3e49a4dfa
+[13:36:17] [Server thread/INFO]: ALZ joined the game
+[13:36:18] [Server thread/INFO]: ALZ[/192.168.163.12:63312] logged in with entity id 16 at ([world]-536.2287434807331, 71.0, -513.3982755549948)
+[13:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[13:36:46] [Async Chat Thread - #1/INFO]: Admin - ALZ: tes
+[13:37:04] [Server thread/INFO]: [Not Secure] [Server] this is server caution
+[13:37:46] [Server thread/INFO]: [Not Secure] [Server] this is server caution
+[13:37:48] [Server thread/INFO]: [TAB] Disabled in 7ms
+[13:37:48] [Server thread/INFO]: [TAB] Enabled in 99ms
+[13:37:48] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
+[13:37:56] [Server thread/INFO]: [TAB] Disabled in 13ms
+[13:37:56] [Server thread/INFO]: [TAB] Enabled in 95ms
+[13:37:56] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
+[13:38:18] [Server thread/INFO]: [TAB] Disabled in 2ms
+[13:38:18] [Server thread/INFO]: [TAB] Enabled in 72ms
+[13:38:18] [Server thread/INFO]: [TAB] [TAB] Successfully reloaded
+[13:39:41] [Server thread/INFO]: ALZ issued server command: /shop
+[13:39:41] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:40:02] [Server thread/INFO]: Shop >> ALZ bought 1 x Brewing Stand(Workstations.page1.items.3) for $7.40 with the buy screen.
+[13:40:43] [Server thread/INFO]: Stopping the server
+[13:40:43] [Server thread/INFO]: Stopping server
+[13:40:43] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[13:40:43] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[13:40:43] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.13.3
+[13:40:43] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.4
+[13:40:43] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[13:40:43] [Server thread/INFO]: [GroupManager] Disabling GroupManager v3.2 (Phoenix)
+[13:40:43] [Server thread/INFO]: [Vault][Permission] GroupManager un-hooked.
+[13:40:43] [Server thread/INFO]: [Vault] [Vault][Chat] GroupManager - Chat un-hooked.
+[13:40:43] [Server thread/WARN]: [GroupManager] Scheduled Data Saving is Disabled!
+[13:40:43] [Server thread/INFO]: [GroupManager] version 3.2 (Phoenix) is disabled!
+[13:40:43] [Server thread/INFO]: [PlayTime] Disabling PlayTime v2.2.5
+[13:40:43] [Server thread/INFO]: [PlayTime] PlayerPlayTime disabled.
+[13:40:43] [Server thread/INFO]: [SlimeRanks] Disabling SlimeRanks v1.0.0-BETA.6
+[13:40:43] [Server thread/INFO]: [TAB] Disabling TAB v5.2.3
+[13:40:43] [Server thread/INFO]: [TAB] Disabled in 17ms
+[13:40:43] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[13:40:43] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[13:40:43] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[13:40:43] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[13:40:43] [Server thread/INFO]: Saving players
+[13:40:43] [Server thread/INFO]: ALZ lost connection: Server closed
+[13:40:43] [Server thread/INFO]: ALZ left the game
+[13:40:43] [Server thread/INFO]: Saving worlds
+[13:40:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:40:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:40:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:40:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Saved 676 block chunks, 679 entity chunks, 0 poi chunks in world 'world' in 3.54s
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[13:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[13:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[13:40:47] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[13:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:40:47] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[13:40:47] [Server thread/INFO]: All I/O tasks to complete
+[13:40:47] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[13:40:47] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "6937d48c-10c0-38b3-9a88-5daeaf61d086",
+    "name": "ALZ25",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ed139787-f254-3e60-b7d5-2ac3e49a4dfa",
+    "name": "ALZ",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
